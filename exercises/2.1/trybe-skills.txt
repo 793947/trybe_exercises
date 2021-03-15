@@ -1,4 +1,5 @@
 O que vou aprender na Trybe? 
-Unix 
-Bash 
-Git
+- Unix 
+- Bash 
+- Git
+- Python
