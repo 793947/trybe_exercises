@@ -1,6 +1,61 @@
 ol{
-    background-color:yellow;
+  background-color: yellow;
 }
+
+.par {
+  color: rgb(26, 168, 26);
+}
+
+.primo {
+  text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5 {
+  color: red;
+}
+
+h1 em, h2 em, h3 em, h4 em, h5 em {
+  font-size: x;
+  border: 1px black solid;
+}
+
+li {
+  font-size: 20px;
+}
+
+li em {
+  font-weight: 600;
+}
+
+.blue {
+  color: blue;
+}
+
+.pink {
+  color: rgb(255, 133, 154)
+}
+
+.stack:hover{
+  background-color: orange;
+  
+}
+
+.w3:hover{
+  background-color: green;
+}
+ 
+.mozilla:hover{
+  background-color: black;
+}
+.dev:hover{
+  background-color: yellow;
+}
+
+.trybe:hover{
+  background-color: green;
+}
+ 
+ 
 
 
 
