@@ -2,7 +2,7 @@
 
 Nste repositório estão todas as atividades de aprendizagem desenvolvidas por _[Gustavo Reginato](https://www.linkedin.com/in/gustavoreginato/)_ enquanto estudante na [Trybe] 
 
-A Trybe é A escola de desenvolvimento web. São mais de 1.500 horas de conteúdo que envolve desde a parte de códigos até a parte comportamental dentro das empresas no ramo da tecnologia. É uma escola que te ensina a programar, aprender e a trabalhar! <3
+A Trybe é uma escola de desenvolvimento web. São mais de 1.500 horas de conteúdo que envolve desde a parte de códigos até a parte comportamental dentro das empresas no ramo da tecnologia. É uma escola que te ensina a programar, aprender e a trabalhar! <3
 
 ## Fundamentos do desenvolvimento Web
 
