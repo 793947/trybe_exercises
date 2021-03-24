@@ -1,5 +1,5 @@
 let peca = "CavaLO";
-
+// adiciona o .toLowerCase para que tema função de deixar a string com todas as letras minusculas, ele ignora o sensitive case.
 switch (peca.toLowerCase()){
   case 'peão':
     console.log("Apenas uma casa para frente");
@@ -20,6 +20,12 @@ switch (peca.toLowerCase()){
             console.log("essa peça nao existe no xadrez");
             break;
 }
+// a ordem vai ser 
+// switch (xxxxxxx) {
+//   case 'xxx':
+//     console.log("xxx");
+//     break;
+// }
 
 
       
