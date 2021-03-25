@@ -28,7 +28,7 @@ A Trybe é uma escola de desenvolvimento web. São mais de 1.500 horas de conte�
 
 ##### Bloco 4: Introdução à JavaScript e logística de programação
 
-- [ ] 4-1: _Introdução JavaScript_
+- [x] 4-1: _Introdução JavaScript_
 - [ ] 4-2: _JavaScript- Primeiros passos_
 - [ ] 4-3: _JavaScript - Array e loop for_
 - [ ] 4-4: _JavaScript - Lógica de programação e Algoritmos_
