@@ -5,3 +5,9 @@ function alteraCor(elementos, cor){
 };
 
 alteraCor('.main-content', 'rgb(76,164,109)');
+
+function mudaCor(elementos, cor){
+  document.querySelector(elementos).style.backgroundColor = cor;
+};
+
+mudaCor('.main-content .center-content', 'white');
