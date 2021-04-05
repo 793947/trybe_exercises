@@ -21,3 +21,8 @@ function corrigeTitulo(){
   titulo.innerHTML = 'Exercício 5.1 - JavaScript';
 };
 corrigeTitulo();
+
+function paragrafoMaiusculo(){
+  document.getElementsByTagName('p')[0].style.textTransform = 'uppercase';
+}
+paragrafoMaiusculo();
