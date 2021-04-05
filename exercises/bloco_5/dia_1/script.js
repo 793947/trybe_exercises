@@ -1,4 +1,8 @@
-document.getElementById('text1').innerHTML="Daqui 2 anos me vejo trabalhando na área da tecnologia, em uma empresa que me agrade e esteja de acordo com meus principios";
+function mudaTexto(){
+  let paragrafo = document.getElementsByTagName('p')[1];
+  paragrafo.innerHTML = 'Estar trabalhando em uma empresa boa e ganhando bem';
+};
+mudaTexto();
 
 function alteraCor(elementos, cor){
   document.querySelector(elementos).style.backgroundColor = cor;
