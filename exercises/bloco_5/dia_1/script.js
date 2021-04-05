@@ -15,3 +15,9 @@ function mudaCor(elementos, cor){
 };
 
 mudaCor('.main-content .center-content', 'white');
+
+function corrigeTitulo(){
+  let titulo = document.getElementsByTagName('h1')[0];
+  titulo.innerHTML = 'Exercício 5.1 - JavaScript';
+};
+corrigeTitulo();
