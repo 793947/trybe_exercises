@@ -33,4 +33,17 @@ A Trybe é uma escola de desenvolvimento web. São mais de 1.500 horas de conte�
 - [x] 4-3: _JavaScript - Array e loop for_
 - [x] 4-4: _JavaScript - Lógica de programação e Algoritmos_
 - [x] 4-5: _JavaScript - Objetos e funções_
-- [ ] 4-6: _Projeto - Playground Functions_
+- [x] 4-6: _Projeto - Playground Functions_
+
+##### Bloco 5: JavaScript: DOM, eventos e web storage
+
+- [ ] 5-1: _JavaScript- Dom e Seletores_
+- [ ] 5-2: _JavaScript- Trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5.1: _JavaScript - JavaScript - Fundamentos - Projetos_
+- [ ] 5-5.2: _Projeto - Arte com Pixels_
+- [ ] 5-6: _Projeto - Lista de tarefas_
+- [ ] 5-7.1(Bônus): _Projeto - Meme generator_ 
+- [ ] 5-7.2(Bônus): _Projeto - Adivinhe a cor_
+- [ ] 5-7.3(Bônus): _Projeto - Carta misteriosa_ 
