@@ -23,3 +23,8 @@ adicionaTexto.innerText = 'isso é um teste, se der certo eu ficarei muito feliz
 let terceiraDiv = document.createElement('div');
 terceiraDiv.className = 'left-content';
 primeiraDiv.appendChild(terceiraDiv);
+
+//exercicio 6;
+let quartaDiv = document.createElement('div');
+quartaDiv.className = 'right-content';
+primeiraDiv.appendChild(quartaDiv);
