@@ -28,3 +28,9 @@ primeiraDiv.appendChild(terceiraDiv);
 let quartaDiv = document.createElement('div');
 quartaDiv.className = 'right-content';
 primeiraDiv.appendChild(quartaDiv);
+
+//exercicio 7;
+let adicionaImg = document.createElement('img');
+adicionaImg.className = 'small-image';
+adicionaImg.src= 'https://picsum.photos/200'; 
+terceiraDiv.appendChild(adicionaImg);
