@@ -5,6 +5,11 @@ meuH1.innerHTML = 'Exercício 5.2 - JavaScript DOM';
 meuH1.style.backgroundColor = 'gray';
 
 //exercicio numero 2;
-let minhaDiv = document.createElement('div');
-minhaDiv.className = 'main-content';
-document.body.appendChild(minhaDiv);
+let primeiraDiv = document.createElement('div');
+primeiraDiv.className = 'main-content';
+document.body.appendChild(primeiraDiv);
+
+//exercicio numero 3;
+let segundaDiv = document.createElement('div');
+segundaDiv.className = 'center-content';
+primeiraDiv.appendChild(segundaDiv)
