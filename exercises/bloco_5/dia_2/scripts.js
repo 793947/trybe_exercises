@@ -14,7 +14,12 @@ let segundaDiv = document.createElement('div');
 segundaDiv.className = 'center-content';
 primeiraDiv.appendChild(segundaDiv)
 
-//exercico numero 4;
+//exercicio numero 4;
 let adicionaTexto = document.createElement('p');
 segundaDiv.appendChild(adicionaTexto);
 adicionaTexto.innerText = 'isso é um teste, se der certo eu ficarei muito feliz'; 
+
+//exercicio numero 5;
+let terceiraDiv = document.createElement('div');
+terceiraDiv.className = 'left-content';
+primeiraDiv.appendChild(terceiraDiv);
