@@ -58,3 +58,6 @@ for (let index = 0; index < 3; index += 1){
   let adicionaTagsH = document.createElement('h3');
   primeiraDiv.appendChild(adicionaTagsH);
 }
+
+//exercicio 1 - pt2;
+meuH1.className = 'title'; 
