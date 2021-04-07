@@ -51,3 +51,22 @@ Feriados.innerHTML = 'Feriados';
 document.querySelector('.buttons-container').appendChild(Feriados);
 }
 criaBotaoDeFeriado();
+
+//exercicio 3;
+function mudaCorFeriados(){
+let botaoFeriado = document.querySelector('#btn-holiday');
+let feriados = document.querySelectorAll('.holiday');
+let backgroundColor = 'rgb(238,238,238)';
+let novaCor = 'blue';
+
+botaoFeriado.addEventListener('click', function(){
+  for (let i = 0; i < feriados.length; i += 1){
+    if (feriados[i].style.backgroundColor === novaCor){
+      feriados[i].style.backgroundColor = backgroundColor;
+    } else {
+      feriados[i].style.backgroundColor = novaCor;
+    }
+  }
+})
+};
+mudaCorFeriados();
