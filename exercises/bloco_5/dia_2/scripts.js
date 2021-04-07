@@ -61,3 +61,9 @@ for (let index = 0; index < 3; index += 1){
 
 //exercicio 1 - pt2;
 meuH1.className = 'title'; 
+
+//exercicio 2 - pt2;
+let adicionaTagsH = document.getElementsByTagName('h3');
+for (let index = 0; index < 3; index += 1){
+  adicionaTagsH[index].className = 'description';
+}
