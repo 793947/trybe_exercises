@@ -73,3 +73,6 @@ document.getElementsByTagName('div')[0].removeChild(document.getElementsByTagNam
 
 //exercicio 4 - pt2;
 quartaDiv.style.marginRight = 'auto';
+
+//exercicio 5 - pt2;
+primeiraDiv.style.backgroundColor= 'green';
