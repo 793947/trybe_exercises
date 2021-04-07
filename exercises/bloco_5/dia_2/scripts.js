@@ -70,3 +70,6 @@ for (let index = 0; index < 3; index += 1){
 
 //exercicio 3 - pt2;
 document.getElementsByTagName('div')[0].removeChild(document.getElementsByTagName('div')[0].children[1]);
+
+//exercicio 4 - pt2;
+quartaDiv.style.marginRight = 'auto';
