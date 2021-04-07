@@ -45,3 +45,16 @@ for(let index =0; index < arrNumbers.length; index += 1){
   adicionaLista.appendChild(addLi);
 }
 quartaDiv.appendChild(adicionaLista);
+
+//exercicio 9;
+// let adicionaTagsH3 = document.createElement('h3');
+// let adicionaTagsH32 = document.createElement('h3');
+// let adicionaTagsH33 = document.createElement('h3');
+
+// primeiraDiv.appendChild(adicionaTagsH3);
+// primeiraDiv.appendChild(adicionaTagsH32);
+// primeiraDiv.appendChild(adicionaTagsH33);
+for (let index = 0; index < 3; index += 1){
+  let adicionaTagsH = document.createElement('h3');
+  primeiraDiv.appendChild(adicionaTagsH);
+}
