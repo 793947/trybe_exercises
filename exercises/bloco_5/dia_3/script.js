@@ -42,3 +42,12 @@ function criaDiaDoMes(){
 }
 
 criaDiaDoMes();
+
+//exercicio 2;
+function criaBotaoDeFeriado(Feriados){
+Feriados = document.createElement('button');
+Feriados.id = 'btn-holiday';
+Feriados.innerHTML = 'Feriados';
+document.querySelector('.buttons-container').appendChild(Feriados);
+}
+criaBotaoDeFeriado();
