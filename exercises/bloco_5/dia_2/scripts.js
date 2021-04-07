@@ -76,3 +76,9 @@ quartaDiv.style.marginRight = 'auto';
 
 //exercicio 5 - pt2;
 primeiraDiv.style.backgroundColor= 'green';
+
+//exercicio 6 - pt2;
+adicionaLista.removeChild(adicionaLista.lastChild);
+adicionaLista.removeChild(adicionaLista.lastChild);
+
+
