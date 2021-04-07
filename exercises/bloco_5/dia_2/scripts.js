@@ -67,3 +67,6 @@ let adicionaTagsH = document.getElementsByTagName('h3');
 for (let index = 0; index < 3; index += 1){
   adicionaTagsH[index].className = 'description';
 }
+
+//exercicio 3 - pt2;
+document.getElementsByTagName('div')[0].removeChild(document.getElementsByTagName('div')[0].children[1]);
